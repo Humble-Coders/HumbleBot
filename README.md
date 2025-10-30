@@ -40,7 +40,7 @@ HumbleBot is a minimal Android app scaffold that talks to Google Gemini using Re
 ### Getting started
 1) Clone the repository
 ```bash
-git clone https://github.com/<your-org-or-user>/HumbleBot.git
+git clone https://github.com/Humble-Coders/HumbleBot.git
 cd HumbleBot
 ```
 
